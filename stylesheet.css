@@ -172,3 +172,32 @@ h2 {
     justify-content: center;
     gap: 20vw;
 }
+
+.button2 {
+    background-color: #3882F6;
+    font-family: Roboto;
+    padding: 7px 30px;
+    font-weight: 700;
+    color: white;
+    font-size: 17px;
+    border: solid 2px white;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+#call-to-action {
+    font-weight: 700;
+    font-size: 20px;
+    margin: 0;
+}
+
+footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+}
+
+footer p {
+    color: white;
+    padding: 18px 0;
+}
